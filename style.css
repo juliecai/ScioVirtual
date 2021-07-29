@@ -162,17 +162,17 @@
    width: 100%;
    color: black;
   }
-  #sneha img {
-   width: auto;
-   height: 20rem;
+ #sneha img {
+   width: 55%;
+   height: auto;
   }
   #ritisha img {
-   width: 15rem;
+   width: 90%;
    height: auto;
   }
   #julie img {
-   width: auto;
-   height: 20rem;
+   width: 75%;
+   height: auto;
   }
   .meetus div {
    background-color: rgba(255, 255, 255, 0.7);
@@ -189,23 +189,24 @@
    padding: 3%;
   }
   #kaitlyn img {
-   width: auto;
-   height: 20rem;
-  }
-  #deeya img {
-   width: auto;
-   height: 18rem;
-  }
-  #lina img {
-   width: auto;
-   height: 20rem;
-  }
-  #victoria img {
-   width: auto;
-   height: 20rem;
-  }
-  #sukriti img {
-   width: 15rem;
+   width: 77%;
    height: auto;
   }
+  #deeya img {
+   width: 70%;
+   height: auto;
+  }
+  #lina img {
+   width: 63%;
+   height: auto;
+  }
+  #victoria img {
+   width: 77%;
+   height: auto;
+  }
+  #sukriti img {
+   width: 95%;
+   height: auto;
+  }
+  
   
